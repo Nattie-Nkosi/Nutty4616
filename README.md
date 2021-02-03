@@ -5,7 +5,7 @@
 
 ## I'm a Developer
 
-- 🌱 I’m currently learning Algorithms & Data Structures and TypeScript 😁
+- 🌱 I’m currently building a full stack App(Feedback Collection Application) 😁
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2021 Goals: Get a Job and Connect With More Aspiring Developers
 - ⚡ Fun fact: I love to Code👨🏽‍💻 and going to the Gym 🏋🏽‍♀️
