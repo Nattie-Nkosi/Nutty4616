@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning microservices architecture and mobile development😁
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2021 Goals: Get a Job and Connect With More Aspiring Developers
+- 🥅 2022 Goals: Get a Job and Connect With More Aspiring Developers
 - ⚡ Fun fact: I love to Code👨🏽‍💻 and going to the Gym 🏋🏽‍♀️
 
 ### Connect with me:
